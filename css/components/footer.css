@@ -1,0 +1,36 @@
+.footer {
+  background-color:#b56576 ;
+  color:#355070;
+  text-align: center;
+  padding: 10px;
+}
+
+.logolist {
+    display: flex;
+    justify-content: center;
+}
+
+.logolist i{
+  font-size: 50px;
+  cursor; pointer-events; 
+  color: #fec5bb; 
+  margin: 20px;
+}
+
+.logolist i:hover {
+  color: white;
+  text-decoration: none;
+}
+
+.text p{
+font-family: 'Libre Baskerville', serif;
+color: rgb(255, 255, 255);
+font-size: 20px;
+margin: 0;
+padding: 0;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
